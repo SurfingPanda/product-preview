@@ -76,7 +76,7 @@ button img{
 }
 
 .price span{
-    color: black;
+    color: gray;
     font-size: 12px;
     text-decoration: line-through;
     margin-left: 20px;
